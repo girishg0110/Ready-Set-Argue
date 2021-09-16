@@ -4,6 +4,6 @@ In the Oxford-style debate setting, winning is judged by the opinions of a neutr
 
 <p align="center">
   <img src="./img/iq2-logo.PNG">
-</p?
+</p>
 
 See my paper for further details and my iPython notebook for code implementation.
